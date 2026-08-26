@@ -4,7 +4,7 @@ A deterministic, grounded **Retrieval-Augmented Generation (RAG)** customer supp
 
 The system is designed to answer customer questions using active policy documentation, safely retrieve order information, preserve context across multi-turn conversations, defend against prompt injection, and escalate to a human when information is conflicting, insufficient, or requires an exception.
 
----
+--- 
 
 ## Features
 
